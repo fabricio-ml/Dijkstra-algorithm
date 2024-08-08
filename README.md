@@ -12,3 +12,7 @@ This code implements Dijkstra's algorithm for finding shortest paths in undirect
    ```bash
    git clone https://github.com/fabricio-ml/Dijkstra-algorithm.git
    cd Dijkstra-algorithm
+   
+2. Run it!
+   ```bash
+   python Dijkstra.py
