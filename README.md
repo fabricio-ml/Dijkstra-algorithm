@@ -9,3 +9,6 @@ This code implements Dijkstra's algorithm for finding shortest paths in undirect
 ## Installation
 
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/fabricio-ml/Dijkstra-algorithm.git
+   cd Dijkstra-algorithm
